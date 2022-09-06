@@ -1,7 +1,7 @@
 Hi 👋 My name is Adam Hurley
 ============================
 
-I've been coding since 2017, mostly just small projects, but yeah.
+I've been coding since 2013-2014, mostly just small projects, but yeah.
 
 * 🌍  I'm based in The United States Of America
 * 🖥️  See my portfolio at [this website](http://adam.almix.net)
