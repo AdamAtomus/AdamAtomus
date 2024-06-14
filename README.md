@@ -3,12 +3,7 @@ Hi 👋 My name is Adam Hurley
 
 I've been coding since 2013-2014, mostly just small projects, but yeah.
 
-* 🌍  I'm based in The United States Of America
-* 🖥️  See my portfolio at [this website](http://adam.almix.net)
 * ✉️  You can contact me at [adam@almix.net](mailto:adam@almix.net)
-* 🚀  I'm currently working on [Almix LLC](http://almix.net)
-* 🧠  I'm learning Java, JS and CSS
-* 🤝  I'm open to collaborating on stuff
 
 ### Skills
 
